@@ -25,9 +25,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.harman.commom.device.model.imp.ConvertService;
-
-import harman.example.interappexample.R;
+import fuc.hackgt.ConvertService;
 
 public class MainActivity extends Activity {
     private Messenger messenger;
